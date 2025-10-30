@@ -1,7 +1,7 @@
 ---
 author: "Panagiotis Sarigiannis 1082051"
 title: "Graphics Tablet & Stylus"
-filename: "/images/Graphics_Tablet_Stylus.jpg"
+image_url: "/images/Graphics_Tablet_Stylus.jpg"
 license_url: "https://commons.wikimedia.org/wiki/File:Wacom_Cintiq_(Pxhere-1393443).jpg"
 categories:
   - Graphical Illustration
