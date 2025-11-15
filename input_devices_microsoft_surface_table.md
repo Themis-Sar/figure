@@ -2,15 +2,18 @@
 author: "Emmanouela Vagianou 1059607"
 title: "Microsoft Surface table (2008)"
 image_url: "/images/Surface_Table.jpg"
-caption: "Η πρώτη γενιά του Microsoft Surface (2008) επαναπροσδιόρισε την έννοια της επιφάνειας
-  ως πεδίο διάδρασης, μεταφέροντας τον έλεγχο απευθείας πάνω στα αντικείμενα του περιβάλλοντος."
+caption: 
+  Το Microsoft Surface Table (2008) ήταν μία από τις πρώτες μεγάλες διαδραστικές επιφάνειες πολλαπλής αφής, πριν ακόμη καθιερωθούν τα tablets. Αναγνώριζε ταυτόχρονα επαφές, αντικείμενα και χειρονομίες, επιτρέποντας σε πολλούς χρήστες να συνεργάζονται γύρω από την ίδια οθόνη. Αποτέλεσε σημαντικό πρόδρομο των σύγχρονων συσκευών multi-touch και των μεταγενέστερων προϊόντων Surface της Microsoft.
 license_url: "https://commons.wikimedia.org/wiki/File:Surface_table.JPG"
 categories:
-  - Multi-touch
-  - Collaborative systems
+  - Πολλαπλή αφή
+  - Διαδραστικές επιφάνειες
+  - Συσκευές Εισόδου
+  - Input Devices
 tags:
   - microsoft
   - surface
   - multitouch
   - mouse
+  - tablet
 ---
