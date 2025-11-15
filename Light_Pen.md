@@ -13,4 +13,5 @@ tags:
   - vintage computing
   - input devices
   - ux history
+  - sketchpad
 ---
