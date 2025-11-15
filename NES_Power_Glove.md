@@ -13,4 +13,6 @@ tags:
   - retro gaming
   - wearable tech
   - gesture control
+  - gloves
+  - motion detection
 ---
