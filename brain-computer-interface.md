@@ -1,7 +1,7 @@
 ---
 author: "Panagiotis Milopoulos 1126464"
 title: "Brain Computer Interface (1973)"
-image_url: "/images/EEG_Recording_Cap.jpg"
+image_url: "/images/brain-computer-interface.jpg"
 caption: >
    Οι διεπαφές εγκεφάλου–υπολογιστή μετατρέπουν τα εγκεφαλικά κύματα σε εντολές.
      Αντιπροσωπεύουν την επόμενη γενιά φυσικής διάδρασης, χωρίς την ανάγκη για καμία φυσική κίνηση.
